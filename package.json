@@ -9,7 +9,7 @@
     "test": "jest --coverage --no-cache",
     "test:watch": "jest --watchAll"
   },
-  "author": "Jesse",
+  "author": "Chuangker",
   "keywords": [
     "easy-mock",
     "mock",
